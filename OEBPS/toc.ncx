@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>詩經</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>國風‧周南</text>
+      </navLabel>
+      <content src="Text/001.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>國風‧召南</text>
+      </navLabel>
+      <content src="Text/002.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>國風‧邶風</text>
+      </navLabel>
+      <content src="Text/003.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>國風‧鄘風</text>
+      </navLabel>
+      <content src="Text/004.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>國風‧衛風</text>
+      </navLabel>
+      <content src="Text/005.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>國風‧王風</text>
+      </navLabel>
+      <content src="Text/006.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>國風‧鄭風</text>
+      </navLabel>
+      <content src="Text/007.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>國風‧齊風</text>
+      </navLabel>
+      <content src="Text/008.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>國風‧魏風</text>
+      </navLabel>
+      <content src="Text/009.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>國風‧唐風</text>
+      </navLabel>
+      <content src="Text/010.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>國風‧秦風</text>
+      </navLabel>
+      <content src="Text/011.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>國風‧陳風</text>
+      </navLabel>
+      <content src="Text/012.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>國風‧檜風</text>
+      </navLabel>
+      <content src="Text/013.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>國風‧曹風</text>
+      </navLabel>
+      <content src="Text/014.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>國風‧豳風</text>
+      </navLabel>
+      <content src="Text/015.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>小雅‧鹿鳴之什</text>
+      </navLabel>
+      <content src="Text/016.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>小雅‧南有嘉魚之什</text>
+      </navLabel>
+      <content src="Text/017.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>小雅‧鴻鴈之什</text>
+      </navLabel>
+      <content src="Text/018.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>小雅‧節南山之什</text>
+      </navLabel>
+      <content src="Text/019.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>小雅‧谷風之什</text>
+      </navLabel>
+      <content src="Text/020.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>小雅‧甫田之什</text>
+      </navLabel>
+      <content src="Text/021.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>小雅‧魚藻之什</text>
+      </navLabel>
+      <content src="Text/022.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>大雅‧文王之什</text>
+      </navLabel>
+      <content src="Text/023.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>大雅‧生民之什</text>
+      </navLabel>
+      <content src="Text/024.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>大雅‧蕩之什</text>
+      </navLabel>
+      <content src="Text/025.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>大雅‧清廟之什</text>
+      </navLabel>
+      <content src="Text/026.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>周頌‧臣工之什</text>
+      </navLabel>
+      <content src="Text/027.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>周頌‧閔予小子之什</text>
+      </navLabel>
+      <content src="Text/028.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>魯頌‧駉之什</text>
+      </navLabel>
+      <content src="Text/029.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>商頌</text>
+      </navLabel>
+      <content src="Text/030.htm#toc_1"/>
+    </navPoint>
+  </navMap>
+</ncx>

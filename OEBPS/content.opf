@@ -1,0 +1,97 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uTYxUxj8FQqUHKlf6ACUSyB">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>詩經</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="未知">未知</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uTYxUxj8FQqUHKlf6ACUSyB" opf:scheme="uuid">uTYxUxj8FQqUHKlf6ACUSyB</dc:identifier>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;本電子書基於「漢川草廬」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (6.8.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>集部</dc:subject>
+    <dc:subject>十三經</dc:subject>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">772f2942-d65e-4c5b-a054-c42f455bbce0</dc:identifier>
+    <meta name="calibre:title_sort" content="詩經"/>
+    <meta name="calibre:author_link_map" content="{&quot;未知&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="十三經"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item id="id0" href="Text/001.htm" media-type="application/xhtml+xml"/>
+    <item id="id1" href="Text/002.htm" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/003.htm" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/004.htm" media-type="application/xhtml+xml"/>
+    <item id="id4" href="Text/005.htm" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/006.htm" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/007.htm" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/008.htm" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/009.htm" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/010.htm" media-type="application/xhtml+xml"/>
+    <item id="id10" href="Text/011.htm" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/012.htm" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/013.htm" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/014.htm" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/015.htm" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/016.htm" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/017.htm" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/018.htm" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/019.htm" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/020.htm" media-type="application/xhtml+xml"/>
+    <item id="id20" href="Text/021.htm" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/022.htm" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/023.htm" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/024.htm" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/025.htm" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/026.htm" media-type="application/xhtml+xml"/>
+    <item id="id26" href="Text/027.htm" media-type="application/xhtml+xml"/>
+    <item id="id27" href="Text/028.htm" media-type="application/xhtml+xml"/>
+    <item id="id28" href="Text/029.htm" media-type="application/xhtml+xml"/>
+    <item id="id29" href="Text/030.htm" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
+    <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
+    <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="rtl">
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+  </spine>
+  <guide>
+    </guide>
+</package>
